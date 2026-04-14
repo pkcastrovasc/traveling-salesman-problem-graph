@@ -77,4 +77,4 @@ Durante a execução com a base usa13509.txt (13.509 cidades estadunidenses), é
 ## 🎥 Apresentação em Vídeo
 Uma explicação detalhada do código desenvolvido e a demonstração da execução deste projeto podem ser vistas no vídeo abaixo:
 
-▶️ [Clique aqui para assistir ao vídeo de apresentação]([https://youtu.be/bMtidkV2A80])
+▶️ [Clique aqui para assistir ao vídeo de apresentação](https://youtu.be/bMtidkV2A80)
