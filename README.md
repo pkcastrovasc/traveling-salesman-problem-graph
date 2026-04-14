@@ -54,8 +54,8 @@ t4-tsp/
 1. **Clone o repositório:**
 
 ```bash
-git clone [https://github.com/](https://github.com/)[seu-usuario]/[nome-do-repositorio].git
-cd [nome-do-repositorio]/src
+git clone https://github.com/pkcastrovasc/traveling-salesman-problem-graph.git
+cd traveling-salesman-problem-graph/src
 ```
 
 2. **Execute o programa passando um arquivo de dados como entrada (<):**
@@ -70,12 +70,9 @@ java Main ../dados/usa13509.txt
 ## 📊 Resultados e Observações
 Durante a execução com a base usa13509.txt (13.509 cidades estadunidenses), é possível observar de forma clara via terminal a superioridade da heurística Smallest Insertion, que entrega um comprimento de circuito consistentemente menor do que a Nearest Insertion.
 
-```text
-(Nota: O funcionamento da interface gráfica TSPVisualizer pode depender de configurações específicas 
-do ambiente (X11, dependências de UI do OS). 
-Em caso de falha na renderização gráfica, os cálculos heurísticos e numéricos continuarão sendo 
-exibidos com sucesso pelo terminal).
-```
+
+> **Nota:** O funcionamento da interface gráfica TSPVisualizer pode depender de configurações específicas do ambiente (X11, dependências de UI do OS). Em caso de falha na renderização gráfica, os cálculos heurísticos e numéricos continuarão sendo exibidos com sucesso pelo terminal.
+
 
 ## 🎥 Apresentação em Vídeo
 Uma explicação detalhada do código desenvolvido e a demonstração da execução deste projeto podem ser vistas no vídeo abaixo:
