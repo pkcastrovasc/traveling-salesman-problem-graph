@@ -5,7 +5,7 @@
 **Disciplina:** Resolução de Problemas com Grafos  
 **Orientador:** Prof. Me Ricardo Carubbi  
 **Instituição:** Universidade de Fortaleza (UNIFOR)  
-**Autor:** Pedro Kauã Vasconcelos e Eduardo Suaki
+**Autores:** Pedro Kauã Vasconcelos e Eduardo Suaki
 
 ---
 
